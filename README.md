@@ -37,7 +37,7 @@ A deep-dive analysis of mental health trends in the tech industry. Combined SQL 
 ---
 
 ### 🧪 5. A/B Test Analysis — Statistical Inference & Dashboarding
-Final project of Sprint 2 focused on real-world experimentation. Performed confidence interval calculations, hypothesis testing, and built dashboards to communicate the results.  
+Investigating a real-world experimentation. Performed confidence interval calculations, hypothesis testing, and built dashboards to communicate the results.  
 **Skills used**: A/B Testing, Confidence Intervals, Hypothesis Testing, Dashboard Design  
 🔗 [ab_test_project.zip](#)
 
