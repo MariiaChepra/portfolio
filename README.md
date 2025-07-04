@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio!
 ### 🧮 1. Python Calculator — OOP & Clean Code
 A fully functional calculator built from scratch using Object-Oriented Programming principles. Demonstrates clean architecture, modular code, and reusability.  
 **Skills used**: Python, OOP, clean code practices, input validation  
-🔗 [](#)
+🔗 [calculator_project.zip](#)
 
 ---
 
