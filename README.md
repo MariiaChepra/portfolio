@@ -18,7 +18,7 @@ A fully functional calculator built from scratch using Object-Oriented Programmi
 ### 🎧 2. Spotify Top 50 Tracks 2020 — Data Analysis
 Analyzed the top Spotify tracks of 2020 using NumPy and Pandas to uncover trends in popularity, genre distribution, tempo, and more.  
 **Skills used**: Data Cleaning, Pandas, NumPy, Linear Algebra, Descriptive Stats  
-🔗 [](#)
+🔗 [spotify_project.zip](#)
 
 ---
 
