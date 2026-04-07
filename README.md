@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mariia Cheprakova
 
 Welcome to my GitHub portfolio!  
-🎓 I'm currently a Data Science student at **Turing College**.
+🎓 I'm currently a Data Science student at **VILNIUS TECH**.
  I’m passionate about data-driven problem solving, statistical analysis, and building clean, efficient code.
 
 ---
